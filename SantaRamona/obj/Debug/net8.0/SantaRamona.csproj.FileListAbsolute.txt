@@ -33,3 +33,4 @@ C:\Users\magal\source\repos\SantaRamona\SantaRamona\obj\Debug\net8.0\refint\Sant
 C:\Users\magal\source\repos\SantaRamona\SantaRamona\obj\Debug\net8.0\SantaRamona.pdb
 C:\Users\magal\source\repos\SantaRamona\SantaRamona\obj\Debug\net8.0\SantaRamona.genruntimeconfig.cache
 C:\Users\magal\source\repos\SantaRamona\SantaRamona\obj\Debug\net8.0\ref\SantaRamona.dll
+C:\Users\magal\source\repos\SantaRamona\SantaRamona\obj\Debug\net8.0\SantaRamona.sourcelink.json

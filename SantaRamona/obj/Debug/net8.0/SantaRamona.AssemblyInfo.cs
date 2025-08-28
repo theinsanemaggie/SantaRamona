@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SantaRamona")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dea30335bcecb8b4161fc5d972629564193ff541")]
 [assembly: System.Reflection.AssemblyProductAttribute("SantaRamona")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SantaRamona")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,6 @@
+{
+	"nombre": "Magalí",
+	"apellido": "Amato",
+	"edad": 20,
+	"profesion": "Analista de sistemas"
+}
