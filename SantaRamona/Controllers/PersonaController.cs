@@ -10,10 +10,15 @@ namespace SantaRamona.Controllers
     {
         // POST api/<PersonaController>
         [HttpPost]
-        public Persona Post(Persona persona)
+        public List<Persona> GetPersona(Persona persona)
         {
-            persona.edad = persona.edad + 5;
-            return persona;
+            List<Persona> lista = new List<Persona>();
+
+            for(int i = 0; i<10;i++)
+            {
+                lista.Add(persona);
+            }
+            return lista;
         }
 
     }
